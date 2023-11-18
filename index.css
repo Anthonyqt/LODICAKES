@@ -2,8 +2,8 @@
     margin: 0;
 }
 body{
-    background-image: url("2.png");
-    background-repeat: no-repeat;
+  background-image: url("2.png");
+  background-repeat: no-repeat;
 
    
 }
@@ -246,9 +246,10 @@ width: 400px;
 /* Contact */
 
 .contact{
+    background-color: #4B4D52;
     font-family: 'Poppins', sans-serif;  
     width: 100%;
-  padding-bottom: 50vh;
+  padding-bottom: 0.5vh;
 }
 .contactcontainer{
     align-items: center;
@@ -314,7 +315,6 @@ input{
  
     background: #AAB0BC;
     color: #4B4D52;
-
     border: none;
     padding: 9px 50px 9px 50px; 
     line-height: normal;
